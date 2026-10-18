@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Seoul Beauty</title>
+</head>
+<body>
+<section id="cosmetics">
+<h2>Наш ассортимент корейской косметики</h2>
+<div class="cosmetics-list">
+<div class="cosmetics-item">
+<h3>Beauty of Joseon Relief Sun SPF50+</h3>
+<img src="https://i.postimg.cc/FH6DvsQB/IMG-6760.jpg"
+alt=" Beauty of Joseon Relief Sun" width="200" height="200">
+<p> Солнцезащитный крем SPF50+ с лёгкой текстурой. Увлажняет кожу и защищает её от ультрафиолетовых лучей.</p>
+</div>
+<div class="cosmetics-item">
+<h3> COSRX Advanced Snail 96 Musin Power Essence</h3>
+<img src="https://i.postimg.cc/x8k1WRGx/IMG-6761.jpg"
+alt="COSRX Snail Essence" width="200" height="200">
+<p>Эссенция с муцином улитки, которая увлажняет кожу, поддерживает её эластичность и помогает восстановить кожный барьер.</p>
+</div>
+<div class="cosmetics-item">
+<h3>Anua Heartleaf 77% Soothing Toner</h3>
+<img src="https://i.postimg.cc/rmR6TYb5/IMG-6758.jpg"
+alt="Anua Heartleaf Toner" width="200" height="200">
+<p>Успокаивающий тонер с экстрактом хауттюйнии. Помогает увлажнить кожу и уменьшить ощущение раздражения.</p>
+</div>
+<div class="cosmetics-item">
+<h3>SKIN1004 Madagascar Centella Ampoule</h3>
+<img src="https://i.postimg.cc/CKKmTBtn/IMG-6753.jpg" alt="SKIN1004 Madagascar Centella Ampoule"
+width="200" height="200">
+<p>Успокаивающая ампула с центеллой азиатской. Подходит для ухода за чувствительной кожей и помогает поддерживать её увлажнённость.</p>
+</div>
+<div class="cosmetics-item">
+<h3>Medicube Zero Pore Pad 2.0</h3>
+<img src="https://i.postimg.cc/kG7Cqydk/58333704-7CE4-46E1-99B0-65B0A6E971D6.png"
+alt="Medicube Zero Pore Pad" width="200" height="200">
+<p>Диски для ухода за кожей с неровной текстурой и заметными порами. Помогают мягко отшелушивать кожу и очищать её поверхность.</p>
+</div>
+<div class="cosmetics-item">
+<h3>Torriden DIVE-IN Hyaluronic Acid Serum</h3>
+<img src="https://i.postimg.cc/VvKx1QgJ/E7CB5F38-8832-4BBE-A201-8D7263FDE805.png"
+alt="Torriden DIVE-IN Hyaluronic Acid Serum" width="200" height="200">
+<p>Увлажняющая сыворотка с гиалуроновой кислотой. Помогает поддерживать водный баланс кожи и делает её более мягкой.</p>
+</div>
+<div class="cosmetics-item">
+<h3>SKIN1004 Hyalu-Cica Water-Fit Sun Serum SPF50+</h3>
+<img src="https://i.postimg.cc/t4zndBBx/IMG-6764.jpg" alt="SKIN1004 Sun Serum"
+width="200" height="200">
+<p>Лёгкий солнцезащитный серум с увлажняющими компонентами. Защищает кожу от солнечных лучей и помогает сохранить её мягкость.</p>
+</div>
+<div class="cosmetics-item">
+<h3>Round Lab Birch Juice Moisturizing Cream</h3>
+<img src="https://i.postimg.cc/6qVdGtgq/829b8fa8-093e-4717-bfac-433335a44127.jpg" alt="Round Lab Birch Juice Moisturizing Cream"
+width="200" height="200">
+<p>Увлажняющий крем с берёзовым соком. Помогает смягчить кожу и поддерживать её защитный барьер.</p>
+</div>
+<div class="cosmetics-item">
+<h3>Beauty of Joseon Glow Deep Serum</h3>
+<img src="https://i.postimg.cc/d1CyCwpq/24CBF1D2-58A7-47A1-BA06-FD1E6263E913.png"
+alt="Beauty of Joseon Glow Deep Serum" width="200" height="200">
+<p> Осветляющая сыворотка с рисовой водой и альфа-арбутином для кожи с неровным тоном. Помогает уменьшить видимость пигментных пятен и придает коже сияние.</p>
+</div>
+<div class="cosmetics-item">
+<h3>SKIN1004 Madagascar Centella Light Cleansing Oil</h3>
+<img src="https://i.postimg.cc/6pRJFPkr/IMG-6770.webp" alt="SKIN1004 Madagascar Centella Light Cleansing Oil"
+width="200" height="200">
+<p>Гидрофильное масло для удаления макияжа, солнцезащитных средств и излишков себума. Помогает эффективно очистить кожу перед умыванием.</p>
+</div>
+<div class="cosmetics-item">
+<h3>COSRX Low pH Good Morning Gel Cleanser</h3>
+<img src="https://i.postimg.cc/28bPBJSy/IMG-6771.webp" alt="COSRX Low pH Good Morning Gel Cleanser" width="200" height="200">
+<p>Мягкий гель для ежедневного очищения лица. Удаляет загрязнения и излишки кожного жира, оставляя ощущение чистоты и свежести.</p>
+</div>
+<div class="cosmetics-item">
+<h3>LANEIGE Lip Sleeping Mask</h3>
+<img src="https://i.postimg.cc/y6nG5KkB/IMG-6767.jpg" alt="LANEIGE Lip Sleeping Mask" width="200" height="200">
+<p>Ночная маска для губ, которая помогает смягчить сухую кожу губ и сохранить ощущение увлажнённости.</p>
+</div>
+<div class="cosmetics-item">
+<h3>SKIN1004 Tone Brightening Capsule Ampoule</h3>
+<img src="https://i.postimg.cc/zvkgGpHb/13C20B39-C0A6-49F4-84A6-7C261FEEE63A.png" alt="SKIN1004 Tone Brightening Capsule Ampoule" width="200" height="200">
+<p>Осветляющая ампула с центеллой и активными компонентами. Помогает сделать тон кожи более ровным и придать ей сияние.</p>
+</div>
+<div class="cosmetics-item">
+<h3>rom&nd Juicy Lasting Tint</h3>
+<img src="https://i.postimg.cc/RF22PQg1/IMG-6772.webp" alt="rom&nd Juicy Lasting Tint" width="200" height="200">
+<p>Тинт для губ с глянцевым финишем. Придаёт губам насыщенный оттенок и эффект сочного блеска.</p>
+</div>
+<div class="cosmetics-item">
+<h3>CLIO Kill Cover Cushion</h3>
+<img src="https://i.postimg.cc/VLWHM8PD/IMG-6773.jpg" alt="CLIO Kill Cover Cushion" width="200" height="200">
+<p>Тональное средство в формате кушона с хорошей укрывистостью. Помогает выровнять тон кожи и создать аккуратный макияж.</p>
+</div>
+</div>
+</section>
+<section id="faq">
+<h2>Часто задаваемые вопросы (FAQ)</h2>
+<ul>
+<li>
+<h3>Вся ли косметика в Seoul Beauty оригинальная?</h3>
+<p>Мы уделяем особое внимание качеству и оригинальности продукции. При формировании ассортимента мы ориентируемся на проверенных поставщиков и стремимся предоставлять покупателям достоверную информацию о каждом товаре.</p>
+</li>
+<li>
+<h3>Как осуществляется доставка заказов?</h3>
+<p>Мы предлагаем доставку заказов по доступным направлениям. Сроки и стоимость зависят от вашего местоположения и выбранного способа доставки. Подробная информация о сроках и условиях предоставляется при оформлении заказа.</p>
+</li>
+<li>
+<h3>Как подобрать косметику под свой тип кожи?</h3>
+<p>При выборе средств важно учитывать тип кожи, её состояние и желаемый результат. Для сухой кожи подойдут увлажняющие кремы и сыворотки, для жирной — лёгкие текстуры, а для чувствительной — средства с успокаивающими компонентами. Если вы сомневаетесь в выборе, обратитесь к нам за рекомендациями.</p>
+</li>
+<li>
+<h3>Можно ли вернуть или обменять товар?</h3>
+<p>Если вы получили повреждённый, дефектный или ошибочно отправленный товар, свяжитесь с нашей службой поддержки. Мы рассмотрим обращение и поможем решить проблему в соответствии с действующими правилами возврата и законодательством. Условия возврата косметики надлежащего качества зависят от применимых правил и состояния товара.</p>
+</li>
+<li>
+<h3>Как правильно использовать корейскую косметику?</h3>
+<p>Рекомендуем начинать с базового ухода: очищения, увлажнения и солнцезащиты утром. Новые средства, такие как тонеры, эссенции и сыворотки, лучше вводить постепенно, следуя инструкциям производителя и учитывая потребности кожи. Перед первым применением желательно провести тест на небольшом участке кожи.</p>
+</li>
+</ul>
+</section>
+<section id="about-us">
+<h2>О нас</h2>
+<div class="company-info">
+<h3>Название компании:</h3>
+<p>Seoul Beauty</p>
+</div>
+<div class="mission">
+<h3>Наша миссия:</h3>
+<p>Мы стремимся сделать корейскую косметику доступной каждому, помогая людям заботиться о своей коже и подчёркивать естественную красоту. Наша цель — предложить разнообразие средств для ухода и макияжа, чтобы каждый покупатель мог найти подходящие продукты для своей ежедневной бьюти-рутины.</p>
+</div>
+<div class="contacts">
+<h3>Контактные данные:</h3>
+<p>📞 Телефон: +7 (777) 123-45-67</p>
+<p>📧 Email: info@seoulbeauty.example</p>
+</div>
+</section>
+</body>
+</html>
